@@ -21,18 +21,7 @@ Below you can see more info about me.
 | Tailwind CSS   | Sass   
  
 </details>                 
-<details>
-  
-<summary>Click to see what laguages I speak fluently</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Norwegian |
-|     2| English   |
-|     3| Kurdish   |
-|     4| Persian   |
-  
-</details>
 <details>
   
 <summary>Click to see what laguages I speak fluently</summary>
