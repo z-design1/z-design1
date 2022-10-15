@@ -1,4 +1,5 @@
 
+![Blue Yellow Futuristic Virtual Technology Blog Banner (1)](https://user-images.githubusercontent.com/74776389/196007474-ee13b4d2-1a82-4e47-b825-cf46a1b6ca95.jpg)
 
 ## Hi there 👋
 My name is Zhino, I´m 22 years old from Oslo, Norway. I have studied front-end development in Noroff university college.
