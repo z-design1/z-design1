@@ -16,7 +16,6 @@ Here is a list of stuff I know that might come in handy in a job.
 | TypeScript     | REST API       | Procreate      |
 | React.js       | Parcel         | Office 365
 | Next.js        | Strapi
-
 | Graphic design | Bootstrap
 | Tailwind CSS   | Sass   
                   
