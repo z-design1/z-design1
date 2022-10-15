@@ -1,7 +1,7 @@
 ### Hi there 👋
-## About me
+## :raising_hand: About me
 
-Hi, I'm Zhino. I'm a web developer.
+Hi, I'm Zhino. I'm a web developer & here is a list of stuff I know that might come in handy in a job.
 
 
 | My job skills  | Other tools    | Other skills   | Fluent in:     |  
