@@ -34,5 +34,6 @@ Here is a list of stuff I know that might come in handy in a job.
   
 </details>
 ## How to contact me 
-![likedin](https://user-images.githubusercontent.com/74776389/196005874-6ab37765-c551-43dd-a04d-8bdbfab49485.png)
+![logo](https://user-images.githubusercontent.com/74776389/196006638-6988a1ee-24b3-4f51-9300-e5ae36057dd2.PNG)
+
 
