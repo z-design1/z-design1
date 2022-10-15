@@ -6,7 +6,8 @@ I have graduated recently and am in search of good job  opportunity.
 Below you can see more info about me. 
 
 <details>
- <summary>Here is a list of stuff I know that might come in handy in a job.</summary>
+ 
+<summary>Here is a list of stuff I know that might come in handy in a job.</summary>
 
 | My job skills  | Other tools    | Other skills     
 |----------------|----------------|----------------|
@@ -18,7 +19,8 @@ Below you can see more info about me.
 | Next.js        | Strapi
 | Graphic design | Bootstrap
 | Tailwind CSS   | Sass   
- </detail>                 
+ 
+</detail>                 
  
 <details>
   
