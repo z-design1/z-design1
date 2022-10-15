@@ -4,24 +4,19 @@
 Hi, I'm Zhino. I'm a web developer.
 
 
-| My job skills  | Other skills   | Fluent in:     |  
-|----------------|----------------|----------------|
-| HTML           | Excel Gantt    | English        |
-| CSS            | Adobe XD       | Norwigean      |
-| JavaScript     | Adobe Photoshop| Krdish         |
-| TypeScript     | Procreate      | Persian        |
-| React.js       |
-| Next.js        |
+| My job skills  | Other tools    | Other skills   | Fluent in:     |  
+|----------------|----------------|----------------|----------------|
+| HTML           | Babel          | Excel Gantt    | English        |
+| CSS            | WpordPress     | Adobe XD       | Norwigean      |
+| JavaScript     | Shopify        | Adobe Photoshop| Krdish         |
+| TypeScript     | REST API       | Procreate      | Persian        |
+| React.js       | Parcel
+| Next.js        | Strapi
 | Bootstrap      |
 | Sass           |
 | Tailwind CSS   |
-| Babel          |
-| WordPress      |
-| Shopify        |
-| REST API       |
-| Parcel         |
 | Graphic design |
-| Strapi         |                  
+                  
  
 
 
