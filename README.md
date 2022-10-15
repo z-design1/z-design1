@@ -1,17 +1,25 @@
 ### Hi there 👋
+## About me
 
-<!--
-**z-design1/z-design1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Zhino. I'm a web developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-darkwood email linkedin discord twitter youtube facebook instagram reddit twitch pinterest soundcloud medium mixcloud keybase steam vk spotify tripadvisor bandcamp stackoverflow symfony docker battle.net
+| My job skills  |
+|----------------|
+| HTML           |
+| CSS            |
+| JavaScript     |
+| TypeScript     |
+| React.js       |
+| Next.js        |
+| Bootstrap      |
+| Sass           |
+| Tailwind CSS   |
+| Babel          |
+| WordPress      |
+| Shopify        |
+| REST API       |
+| Parcel         |
+| Graphic design |
+
+
