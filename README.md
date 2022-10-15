@@ -4,12 +4,12 @@
 Hi, I'm Zhino. I'm a web developer.
 
 
-| My job skills  |      | Other skills   |      | Fluent in:     |  
-|----------------|      |----------------|      |----------------|
-| HTML           |      | Excel Gantt    |      | English        |
-| CSS            |      | Adobe XD       |      | Norwigean      |
-| JavaScript     |      | Adobe Photoshop|      | Krdish         |
-| TypeScript     |      | Procreate      |      | Persian        |
+| My job skills  | Other skills   | Fluent in:     |  
+|----------------|----------------|----------------|
+| HTML           | Excel Gantt    | English        |
+| CSS            | Adobe XD       | Norwigean      |
+| JavaScript     | Adobe Photoshop| Krdish         |
+| TypeScript     | Procreate      | Persian        |
 | React.js       |
 | Next.js        |
 | Bootstrap      |
