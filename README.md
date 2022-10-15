@@ -4,12 +4,12 @@
 Hi, I'm Zhino. I'm a web developer.
 
 
-| My job skills  |
-|----------------|
-| HTML           |
-| CSS            |
-| JavaScript     |
-| TypeScript     |
+| My job skills  | | Other skills   | | Fluent in:     |  
+|----------------| |----------------| |----------------|
+| HTML           | | Excel Gantt    | | English        |
+| CSS            | | Adobe XD       | | Norwigean      |
+| JavaScript     | | Adobe Photoshop| | Krdish         |
+| TypeScript     | | Procreate      | | Persian        |
 | React.js       |
 | Next.js        |
 | Bootstrap      |
@@ -21,5 +21,9 @@ Hi, I'm Zhino. I'm a web developer.
 | REST API       |
 | Parcel         |
 | Graphic design |
+| Strapi         |                  
+ 
+
+
 
 
