@@ -7,7 +7,7 @@ Below you can see more info about me.
 
 <details>
  
-<summary>Here is a list of stuff I know that might come in handy in a job.</summary>
+<summary>Here is a list of stuff I know that might come in handy in a job</summary>
 
 | My job skills  | Other tools    | Other skills     
 |----------------|----------------|----------------|
@@ -20,8 +20,19 @@ Below you can see more info about me.
 | Graphic design | Bootstrap
 | Tailwind CSS   | Sass   
  
-</detail>                 
- 
+</details>                 
+<details>
+  
+<summary>Click to see what laguages I speak fluently</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Norwegian |
+|     2| English   |
+|     3| Kurdish   |
+|     4| Persian   |
+  
+</details>
 <details>
   
 <summary>Click to see what laguages I speak fluently</summary>
