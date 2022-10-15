@@ -17,7 +17,7 @@ Hi, I'm Zhino. I'm a web developer & here is a list of stuff I know that might c
                   
  
 <details>
-<summary>I'm fluent in these laguages</summary>
+<summary>Click to see what laguages I speak fluently</summary>
 
 | Rank | Languages |
 |-----:|-----------|
