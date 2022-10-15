@@ -16,7 +16,7 @@ Hi, I'm Zhino. I'm a web developer & here is a list of stuff I know that might c
 | Tailwind CSS   | Sass   
                   
  
-<details>
+<details open>
 <summary>Click to see what laguages I speak fluently</summary>
 
 | Rank | Languages |
