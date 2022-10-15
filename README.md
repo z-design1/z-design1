@@ -12,10 +12,8 @@ Hi, I'm Zhino. I'm a web developer.
 | TypeScript     | REST API       | Procreate      | Persian        |
 | React.js       | Parcel
 | Next.js        | Strapi
-| Bootstrap      |
-| Sass           |
-| Tailwind CSS   |
-| Graphic design |
+| Graphic design | Bootstrap
+| Tailwind CSS   | Sass   
                   
  
 
