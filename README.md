@@ -8,7 +8,7 @@ Hi, I'm Zhino. I'm a web developer & here is a list of stuff I know that might c
 |----------------|----------------|----------------|----------------|
 | HTML           | Babel          | Gantt chart    | English        |
 | CSS            | WpordPress     | Adobe XD       | Norwigean      |
-| JavaScript     | Shopify        | Adobe Photoshop| Krdish         |
+| JavaScript     | Shopify        | Adobe Photoshop| Kurdish        |
 | TypeScript     | REST API       | Procreate      | Persian        |
 | React.js       | Parcel         | Office 365
 | Next.js        | Strapi
