@@ -33,5 +33,8 @@ Here is a list of stuff I know that might come in handy in a job.
 |     4| Persian   |
   
 </details>
-## How to contact me 
 
+## 📱 How to contact me
+- https://www.linkedin.com/in/zhino-babamiri-073122237/
+- zhinobabamiri@gmail.com
+- https://github.com/z-design1
