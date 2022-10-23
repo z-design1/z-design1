@@ -13,7 +13,7 @@ Below you can see more info about me.
 | My job skills  | Other tools    | Other skills     
 |----------------|----------------|----------------|
 | HTML           | Babel          | Gantt chart    |
-| CSS            | WpordPress     | Adobe XD       |
+| CSS            | WordPress     | Adobe XD       |
 | JavaScript     | Shopify        | Adobe Photoshop|
 | TypeScript     | REST API       | Procreate      |
 | React.js       | Parcel         | Office 365
